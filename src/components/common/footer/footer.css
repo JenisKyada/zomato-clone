@@ -1,0 +1,50 @@
+/* Footer.css */
+
+.zomato-footer {
+    background-color: #e8e8e8;
+    padding: 40px 0;
+    color: #4a4a4a;
+}
+
+.zomato-footer h5 {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+    color: #000;
+}
+
+.zomato-footer ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.zomato-footer ul li {
+    margin-bottom: 8px;
+}
+
+.zomato-footer hr {
+    border-color: #d3d3d3;
+}
+
+.zomato-footer p {
+    font-size: 0.9rem;
+    margin-top: 20px;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col-md-3 {
+    width: calc(25% - 20px);
+    margin-right: 40px;
+}
+
+.col-md-12 {
+    width: 100%;
+}
